@@ -46,7 +46,7 @@ Developers can test the backend API using the following configuration:
 jwt, mongoose, bcrypt, serversiderendering, clientsiderendering, mvc, schema, middlewares.
 
 
-🚀### **Installation & Local Setup:**
+🚀 Installation & Local Setup
 
 Clone the repository:
 git clone [https://github.com/rabiamuhammadsaleem/express-blog-project.git](https://github.com/rabiamuhammadsaleem/express-blog-project.git)
