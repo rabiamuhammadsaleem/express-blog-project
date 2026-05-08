@@ -30,7 +30,7 @@ A robust Full-Stack application built with **Node.js** and **Express.js**. This 
 
 Developers can test the backend API using the following configuration:
 
-### ✨**Common Settings:**
+## ✨ Common Settings
 - **URL:** `https://express-blog-project-production-a2eb.up.railway.app/api/blog`
 - **Method:** `POST`
 - **Headers:** `Content-Type: application/json`
@@ -42,11 +42,11 @@ Developers can test the backend API using the following configuration:
 }
 
 
-### **Supported Topics:**
+## Supported Topics
 jwt, mongoose, bcrypt, serversiderendering, clientsiderendering, mvc, schema, middlewares.
 
 
-🚀 Installation & Local Setup
+## 🚀 Installation & Local Setup
 
 Clone the repository:
 git clone [https://github.com/rabiamuhammadsaleem/express-blog-project.git](https://github.com/rabiamuhammadsaleem/express-blog-project.git)
@@ -58,7 +58,7 @@ Start the server:
 npm start
 
 
-👩‍💻### **Author:**
+## 👩‍💻 Author
 
 Rabia Saleem Professional Web Developer | Freelancer | Full-Stack Student at SMIT
 
@@ -70,7 +70,7 @@ Email: rabiasaleem2307@gmail.com
 
 
 
-✨ ### **Acknowledgments:**
+ ## ✨ Acknowledgments
 
 Special thanks to SMIT (Saylani Mass IT Training) for the mentorship and support.
 
