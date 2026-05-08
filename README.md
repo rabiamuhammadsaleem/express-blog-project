@@ -36,7 +36,7 @@ Developers can test the backend API using the following configuration:
 - **Headers:** `Content-Type: application/json`
 
 ### **Request Body Example (Raw JSON):**
-```json
+
 {
   "topic": "mongoose"
 }
@@ -67,3 +67,4 @@ Email: rabiasaleem2307@gmail.com
 
 Acknowledgments
 Special thanks to SMIT (Saylani Mass IT Training) for the mentorship and support.
+
